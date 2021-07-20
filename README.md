@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UpperSoft](https://uppersoft.com.br)
 
-- 🌱 I’m currently learning **PHP, Symfony, Larave and NodeJS**
+- 🌱 I’m currently learning **PHP, Symfony, Laravel and NodeJS**
 
 - 📝 I write articles on [https://blog.diogenesc.com/](https://blog.diogenesc.com/)
 
