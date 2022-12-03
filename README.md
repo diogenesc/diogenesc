@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogenesc&label=Profile%20views&color=0e75b6&style=flat" alt="diogenesc" /> </p>
 
-- 🔭 I’m currently working on [InPeace](https://inpeaceapp.com/)
+- 🔭 I’m currently working at [InPeace](https://inpeaceapp.com/)
 
 - 🌱 I’m currently learning **PHP, Symfony, Laravel and NodeJS**
 
