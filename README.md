@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [InPeace](https://inpeaceapp.com/)
 
-- 🌱 I’m currently learning **PHP, Symfony, Laravel and NodeJS**
+- 🌱 I’m currently working with **PHP, Symfony, Laravel and NodeJS**
 
 - 📝 I write articles on [https://blog.diogenesc.com/](https://blog.diogenesc.com/)
 
