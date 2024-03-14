@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogenesc&label=Profile%20views&color=0e75b6&style=flat" alt="diogenesc" /> </p>
 
-- 🔭 I’m currently working at [Pagar.me](https://pagar.me/)
+- 🔭 I’m currently working at [Stone Co](https://www.stone.co/br/)
 
-- 🌱 I’m currently working with **Python, FastAPI, PHP, Symfony, Laravel and NodeJS**
+- 🌱 I’m currently working with **Python and FastAPI**
 
 - 📝 I write articles on [https://blog.diogenesc.com/](https://blog.diogenesc.com/)
 
