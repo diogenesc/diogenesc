@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Stone Co](https://www.stone.co/br/)
 
-- 🌱 I’m currently working with **Python and Golang**
+- 🌱 I’m currently working with **Golang**
 
 - 📝 I write articles on [https://blog.diogenesc.com/](https://blog.diogenesc.com/)
 
